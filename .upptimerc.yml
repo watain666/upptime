@@ -9,6 +9,7 @@ sites:
     url: https://d.tiaui.co/
   - name: FETN
     url: https://www.fetn.co/
+    user-agent: watain666
   - name: O͘màmà
     url: https://omama.to/
   - name: Tâijī chhân
