@@ -9,7 +9,7 @@ sites:
     url: https://d.tiaui.co/
   - name: FETN
     url: https://www.fetn.co/
-    user-agent: watain666
+    check: "tcp-ping"
   - name: O͘màmà
     url: https://omama.to/
   - name: Tâijī chhân
