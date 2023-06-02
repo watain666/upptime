@@ -64,18 +64,20 @@
     "url": "https://omama.to/",
     "icon": "https://icons.duckduckgo.com/ip3/omama.to.ico",
     "slug": "omama",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 986,
-    "timeWeek": 736,
-    "timeMonth": 692,
-    "timeYear": 623,
-    "dailyMinutesDown": {}
+    "time": 632,
+    "timeDay": 1047,
+    "timeWeek": 783,
+    "timeMonth": 705,
+    "timeYear": 632,
+    "dailyMinutesDown": {
+      "2023-06-02": 0
+    }
   },
   {
     "name": "Tâijī chhân",
