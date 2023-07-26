@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiaui.co.ico",
     "slug": "always-indigo",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.80%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 112,
     "timeDay": 99,
     "timeWeek": 117,
     "timeMonth": 104,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2023-07-26": 17
+      "2023-07-26": 29
     }
   },
   {
@@ -24,9 +24,9 @@
     "url": "https://d.tiaui.co/",
     "icon": "https://icons.duckduckgo.com/ip3/d.tiaui.co.ico",
     "slug": "one-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
@@ -36,6 +36,7 @@
     "timeMonth": 245,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-06-13": 80,
       "2023-06-02": 232,
       "2023-06-01": 66
