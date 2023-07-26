@@ -6,15 +6,15 @@
     "slug": "always-indigo",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.83%",
+    "uptimeDay": "98.80%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 113,
-    "timeDay": 122,
-    "timeWeek": 123,
-    "timeMonth": 105,
-    "timeYear": 113,
+    "time": 112,
+    "timeDay": 99,
+    "timeWeek": 117,
+    "timeMonth": 104,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2023-07-26": 17
     }
