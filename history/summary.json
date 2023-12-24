@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 66,
-    "timeWeek": 88,
-    "timeMonth": 120,
+    "timeDay": 69,
+    "timeWeek": 86,
+    "timeMonth": 118,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2023-07-26": 40
@@ -96,18 +96,16 @@
     "slug": "taiji-chhan",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 761,
     "timeDay": 853,
     "timeWeek": 823,
     "timeMonth": 789,
     "timeYear": 761,
-    "dailyMinutesDown": {
-      "2023-12-24": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ginger's portfolio",
