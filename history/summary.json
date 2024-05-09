@@ -95,18 +95,20 @@
     "url": "https://ji.taioan.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ji.taioan.org.ico",
     "slug": "taiji-chhan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 956,
-    "timeWeek": 811,
-    "timeMonth": 836,
-    "timeYear": 772,
-    "dailyMinutesDown": {}
+    "time": 816,
+    "timeDay": 9149,
+    "timeWeek": 2878,
+    "timeMonth": 1368,
+    "timeYear": 818,
+    "dailyMinutesDown": {
+      "2024-05-09": 0
+    }
   },
   {
     "name": "Ginger's portfolio",
