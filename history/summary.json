@@ -44,9 +44,9 @@
     "url": "www.fetn.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fetn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +55,9 @@
     "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 8,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-13": 0
+    }
   },
   {
     "name": "O͘màmà",
@@ -64,12 +66,12 @@
     "slug": "omama",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "87.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "85.13%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.37%",
     "time": 719,
-    "timeDay": 462,
+    "timeDay": 469,
     "timeWeek": 807,
     "timeMonth": 598,
     "timeYear": 694,
