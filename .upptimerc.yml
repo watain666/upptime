@@ -8,8 +8,7 @@ sites:
   - name: One Drive
     url: https://d.tiaui.co/
   - name: FETN
-    url: www.fetn.co
-    check: "tcp-ping"
+    url: https://fetnto.blogspot.com/
   - name: O͘màmà
     url: https://omama.to/
   - name: Tâijī chhân
