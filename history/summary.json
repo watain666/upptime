@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 131,
-    "timeWeek": 114,
-    "timeMonth": 120,
+    "timeDay": 0,
+    "timeWeek": 101,
+    "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2023-07-26": 40
@@ -29,34 +29,35 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 475,
-    "timeDay": 298,
-    "timeWeek": 251,
-    "timeMonth": 387,
-    "timeYear": 490,
+    "timeDay": 0,
+    "timeWeek": 250,
+    "timeMonth": 394,
+    "timeYear": 474,
     "dailyMinutesDown": {
       "2024-01-17": 17
     }
   },
   {
     "name": "FETN",
-    "url": "www.fetn.co",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://fetnto.blogspot.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/fetnto.blogspot.com.ico",
     "slug": "fetn",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 9,
-    "timeDay": 2,
-    "timeWeek": 5,
-    "timeMonth": 4,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "7.85%",
+    "uptimeWeek": "86.84%",
+    "uptimeMonth": "96.97%",
+    "uptimeYear": "99.75%",
+    "time": 10,
+    "timeDay": 296,
+    "timeWeek": 46,
+    "timeMonth": 14,
     "timeYear": 8,
     "dailyMinutesDown": {
-      "2024-06-13": 0
+      "2024-06-14": 141,
+      "2024-06-13": 1186
     }
   },
   {
@@ -71,9 +72,9 @@
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.37%",
     "time": 719,
-    "timeDay": 469,
-    "timeWeek": 807,
-    "timeMonth": 598,
+    "timeDay": 0,
+    "timeWeek": 674,
+    "timeMonth": 606,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2024-06-12": 216,
@@ -101,10 +102,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 813,
-    "timeDay": 544,
-    "timeWeek": 693,
-    "timeMonth": 763,
-    "timeYear": 819,
+    "timeDay": 0,
+    "timeWeek": 694,
+    "timeMonth": 766,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2024-05-10": 100,
       "2024-05-09": 1299
@@ -122,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 133,
-    "timeWeek": 126,
-    "timeMonth": 164,
+    "timeDay": 0,
+    "timeWeek": 115,
+    "timeMonth": 165,
     "timeYear": 181,
     "dailyMinutesDown": {}
   }
