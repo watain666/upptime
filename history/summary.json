@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 204,
-    "timeWeek": 134,
-    "timeMonth": 139,
-    "timeYear": 116,
+    "timeDay": 131,
+    "timeWeek": 119,
+    "timeMonth": 141,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2023-07-26": 40
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 273,
-    "timeWeek": 239,
-    "timeMonth": 419,
-    "timeYear": 471,
+    "timeDay": 323,
+    "timeWeek": 248,
+    "timeMonth": 420,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2024-01-17": 17
     }
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fetnto.blogspot.com.ico",
     "slug": "fetn",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.97%",
     "uptimeYear": "99.75%",
     "time": 20,
-    "timeDay": 245,
-    "timeWeek": 218,
-    "timeMonth": 172,
+    "timeDay": 184,
+    "timeWeek": 197,
+    "timeMonth": 178,
     "timeYear": 21,
     "dailyMinutesDown": {
       "2024-06-14": 141,
@@ -72,10 +72,10 @@
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.37%",
     "time": 723,
-    "timeDay": 440,
-    "timeWeek": 751,
-    "timeMonth": 793,
-    "timeYear": 705,
+    "timeDay": 551,
+    "timeWeek": 776,
+    "timeMonth": 767,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2024-06-12": 216,
       "2024-06-11": 1283,
@@ -102,10 +102,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 812,
-    "timeDay": 788,
-    "timeWeek": 794,
-    "timeMonth": 795,
-    "timeYear": 822,
+    "timeDay": 813,
+    "timeWeek": 816,
+    "timeMonth": 793,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2024-05-10": 100,
       "2024-05-09": 1299
@@ -123,9 +123,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 201,
-    "timeWeek": 207,
-    "timeMonth": 184,
+    "timeDay": 129,
+    "timeWeek": 195,
+    "timeMonth": 186,
     "timeYear": 182,
     "dailyMinutesDown": {}
   }
