@@ -4,9 +4,9 @@
     "url": "https://tiaui.co",
     "icon": "https://icons.duckduckgo.com/ip3/tiaui.co.ico",
     "slug": "always-indigo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 164,
     "timeMonth": 130,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "One Drive",
     "url": "https://d.tiaui.co/",
     "icon": "https://icons.duckduckgo.com/ip3/d.tiaui.co.ico",
     "slug": "one-drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 297,
     "timeMonth": 257,
     "timeYear": 390,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-04": 0
+    }
   },
   {
     "name": "FETN",
