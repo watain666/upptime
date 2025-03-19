@@ -11,9 +11,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 131,
-    "timeDay": 120,
-    "timeWeek": 128,
-    "timeMonth": 265,
+    "timeDay": 201,
+    "timeWeek": 145,
+    "timeMonth": 266,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2025-03-04": 36
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 430,
-    "timeDay": 173,
-    "timeWeek": 264,
-    "timeMonth": 445,
-    "timeYear": 406,
+    "timeDay": 230,
+    "timeWeek": 265,
+    "timeMonth": 446,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2025-03-04": 36
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fetnto.blogspot.com.ico",
     "slug": "fetn",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 115,
-    "timeDay": 161,
-    "timeWeek": 182,
+    "timeDay": 103,
+    "timeWeek": 170,
     "timeMonth": 356,
-    "timeYear": 160,
+    "timeYear": 161,
     "dailyMinutesDown": {
       "2024-06-14": 141,
       "2024-06-13": 1186
@@ -72,8 +72,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 614,
-    "timeDay": 499,
-    "timeWeek": 432,
+    "timeDay": 400,
+    "timeWeek": 426,
     "timeMonth": 504,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -96,9 +96,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 827,
-    "timeDay": 1120,
-    "timeWeek": 840,
-    "timeMonth": 790,
+    "timeDay": 654,
+    "timeWeek": 807,
+    "timeMonth": 788,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2024-08-12": 194,
@@ -119,10 +119,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 187,
-    "timeDay": 98,
-    "timeWeek": 318,
-    "timeMonth": 235,
-    "timeYear": 184,
+    "timeDay": 186,
+    "timeWeek": 328,
+    "timeMonth": 236,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2024-12-04": 627,
       "2024-12-03": 267
