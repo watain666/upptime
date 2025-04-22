@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 134,
-    "timeDay": 217,
-    "timeWeek": 161,
-    "timeMonth": 176,
+    "timeDay": 99,
+    "timeWeek": 156,
+    "timeMonth": 174,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2025-03-04": 36
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 416,
-    "timeDay": 279,
-    "timeWeek": 265,
-    "timeMonth": 491,
-    "timeYear": 416,
+    "timeDay": 284,
+    "timeWeek": 277,
+    "timeMonth": 493,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2025-03-04": 36
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 128,
-    "timeDay": 360,
-    "timeWeek": 199,
-    "timeMonth": 201,
-    "timeYear": 179,
+    "timeDay": 161,
+    "timeWeek": 197,
+    "timeMonth": 200,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2024-06-14": 141,
       "2024-06-13": 1186
@@ -72,16 +72,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 670,
-    "timeDay": 1943,
-    "timeWeek": 680,
-    "timeMonth": 1503,
-    "timeYear": 676,
+    "timeDay": 957,
+    "timeWeek": 757,
+    "timeMonth": 1508,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2024-07-24": 44,
       "2024-06-12": 216,
       "2024-06-11": 1283,
-      "2024-04-23": 151,
-      "2024-04-22": 12
+      "2024-04-23": 151
     }
   },
   {
@@ -96,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
     "time": 826,
-    "timeDay": 730,
-    "timeWeek": 777,
-    "timeMonth": 739,
+    "timeDay": 933,
+    "timeWeek": 782,
+    "timeMonth": 746,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2024-08-12": 194,
@@ -119,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 192,
-    "timeDay": 984,
-    "timeWeek": 318,
-    "timeMonth": 259,
+    "timeDay": 104,
+    "timeWeek": 284,
+    "timeMonth": 258,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2024-12-04": 627,
