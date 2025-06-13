@@ -4,9 +4,9 @@
     "url": "https://tiaui.co",
     "icon": "https://icons.duckduckgo.com/ip3/tiaui.co.ico",
     "slug": "always-indigo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 151,
     "timeYear": 149,
     "dailyMinutesDown": {
+      "2025-06-13": 0,
       "2025-03-04": 36
     }
   },
