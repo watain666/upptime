@@ -24,19 +24,19 @@
     "url": "https://d.tiaui.co/",
     "icon": "https://icons.duckduckgo.com/ip3/d.tiaui.co.ico",
     "slug": "one-drive",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 408,
-    "timeDay": 138,
-    "timeWeek": 248,
-    "timeMonth": 272,
-    "timeYear": 423,
+    "time": 409,
+    "timeDay": 249,
+    "timeWeek": 268,
+    "timeMonth": 278,
+    "timeYear": 424,
     "dailyMinutesDown": {
-      "2025-07-29": 0,
+      "2025-07-29": 21,
       "2025-03-04": 36
     }
   },
@@ -118,7 +118,7 @@
     "timeDay": 128,
     "timeWeek": 164,
     "timeMonth": 221,
-    "timeYear": 202,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2024-12-04": 627,
       "2024-12-03": 267
