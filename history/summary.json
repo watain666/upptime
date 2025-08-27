@@ -46,18 +46,20 @@
     "url": "https://fetnto.blogspot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fetnto.blogspot.com.ico",
     "slug": "fetn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 180,
-    "timeWeek": 216,
-    "timeMonth": 215,
-    "timeYear": 211,
-    "dailyMinutesDown": {}
+    "time": 182,
+    "timeDay": 370,
+    "timeWeek": 259,
+    "timeMonth": 225,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   },
   {
     "name": "O͘màmà",
@@ -71,7 +73,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 619,
-    "timeDay": 899,
+    "timeDay": 537,
     "timeWeek": 558,
     "timeMonth": 464,
     "timeYear": 594,
