@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 107,
-    "timeWeek": 238,
-    "timeMonth": 196,
+    "timeDay": 110,
+    "timeWeek": 226,
+    "timeMonth": 194,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2025-03-04": 36
@@ -30,37 +30,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 425,
-    "timeDay": 247,
-    "timeWeek": 864,
-    "timeMonth": 559,
+    "time": 426,
+    "timeDay": 259,
+    "timeWeek": 807,
+    "timeMonth": 553,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2025-08-06": 20,
       "2025-07-29": 21,
       "2025-03-04": 36
-    }
-  },
-  {
-    "name": "FETN",
-    "url": "https://fetnto.blogspot.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/fetnto.blogspot.com.ico",
-    "slug": "fetn",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "47.82%",
-    "uptimeWeek": "87.01%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "99.75%",
-    "time": 200,
-    "timeDay": 330,
-    "timeWeek": 315,
-    "timeMonth": 295,
-    "timeYear": 234,
-    "dailyMinutesDown": {
-      "2025-08-29": 505,
-      "2025-08-28": 767,
-      "2025-08-27": 38
     }
   },
   {
@@ -74,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 617,
-    "timeDay": 335,
-    "timeWeek": 515,
-    "timeMonth": 459,
-    "timeYear": 592,
+    "time": 610,
+    "timeDay": 342,
+    "timeWeek": 506,
+    "timeMonth": 457,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2025-08-18": 21,
       "2025-08-12": 19,
@@ -101,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 842,
-    "timeDay": 813,
-    "timeWeek": 841,
-    "timeMonth": 943,
+    "timeDay": 829,
+    "timeWeek": 845,
+    "timeMonth": 941,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2025-06-30": 33
@@ -121,9 +99,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 199,
-    "timeDay": 215,
-    "timeWeek": 210,
-    "timeMonth": 237,
+    "timeDay": 194,
+    "timeWeek": 202,
+    "timeMonth": 234,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-12-04": 627,
