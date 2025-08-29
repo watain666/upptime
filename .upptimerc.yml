@@ -9,7 +9,7 @@ sites:
     url: https://d.tiaui.co/
   - name: FETN
     url: https://fetnto.blogspot.com/
-    interval: 300000  # 5-minute interval instead of default 30 seconds
+    interval: 1800000  # 30 minute interval
   - name: O͘màmà
     url: https://omama.to/
   - name: Tâijī chhân
