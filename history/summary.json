@@ -48,9 +48,9 @@
     "slug": "fetn",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "46.17%",
-    "uptimeWeek": "89.35%",
-    "uptimeMonth": "97.55%",
+    "uptimeDay": "46.70%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "97.57%",
     "uptimeYear": "99.80%",
     "time": 190,
     "timeDay": 340,
@@ -58,7 +58,7 @@
     "timeMonth": 292,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2025-08-29": 270,
+      "2025-08-29": 262,
       "2025-08-28": 767,
       "2025-08-27": 38
     }
