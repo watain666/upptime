@@ -7,9 +7,6 @@ sites:
     url: https://tiaui.co
   - name: One Drive
     url: https://d.tiaui.co/
-  - name: FETN
-    url: https://fetnto.blogspot.com/
-    interval: 1800000  # 30 minute interval
   - name: O͘màmà
     url: https://omama.to/
   - name: Tâijī chhân
