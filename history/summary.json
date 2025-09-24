@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 151,
-    "timeDay": 154,
-    "timeWeek": 176,
-    "timeMonth": 188,
+    "timeDay": 226,
+    "timeWeek": 189,
+    "timeMonth": 191,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-03-04": 36
@@ -31,13 +31,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 426,
-    "timeDay": 210,
-    "timeWeek": 268,
-    "timeMonth": 374,
+    "timeDay": 294,
+    "timeWeek": 271,
+    "timeMonth": 375,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2025-08-06": 20,
-      "2025-07-29": 21,
       "2025-03-04": 36
     }
   },
@@ -47,25 +46,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/omama.to.ico",
     "slug": "omama",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 597,
-    "timeDay": 423,
-    "timeWeek": 413,
-    "timeMonth": 426,
-    "timeYear": 563,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
+    "time": 596,
+    "timeDay": 296,
+    "timeWeek": 409,
+    "timeMonth": 419,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2025-09-04": 16,
       "2025-08-18": 21,
       "2025-08-12": 19,
       "2025-08-10": 17,
-      "2025-07-26": 25,
-      "2025-07-07": 21,
-      "2025-06-16": 52,
-      "2025-06-12": 24
+      "2025-06-16": 52
     }
   },
   {
@@ -79,10 +74,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 839,
-    "timeDay": 927,
-    "timeWeek": 780,
-    "timeMonth": 793,
+    "time": 805,
+    "timeDay": 721,
+    "timeWeek": 763,
+    "timeMonth": 787,
     "timeYear": 808,
     "dailyMinutesDown": {
       "2025-06-30": 33
@@ -100,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 203,
-    "timeDay": 101,
-    "timeWeek": 279,
-    "timeMonth": 231,
+    "timeDay": 257,
+    "timeWeek": 268,
+    "timeMonth": 235,
     "timeYear": 210,
     "dailyMinutesDown": {
       "2024-12-04": 627,
@@ -120,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 262,
-    "timeDay": 163,
-    "timeWeek": 249,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "time": 266,
+    "timeDay": 352,
+    "timeWeek": 270,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   }
 ]
