@@ -110,17 +110,19 @@
     "url": "https://miracle30.live/",
     "icon": "https://icons.duckduckgo.com/ip3/miracle30.live.ico",
     "slug": "30",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 480,
-    "timeWeek": 311,
-    "timeMonth": 272,
-    "timeYear": 272,
-    "dailyMinutesDown": {}
+    "time": 293,
+    "timeDay": 691,
+    "timeWeek": 385,
+    "timeMonth": 293,
+    "timeYear": 293,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   }
 ]
