@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 162,
-    "timeDay": 201,
+    "timeDay": 211,
     "timeWeek": 155,
-    "timeMonth": 154,
+    "timeMonth": 153,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2025-11-18": 128,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 525,
-    "timeDay": 457,
-    "timeWeek": 970,
-    "timeMonth": 427,
+    "timeDay": 464,
+    "timeWeek": 1079,
+    "timeMonth": 430,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2026-01-20": 30,
@@ -54,15 +54,15 @@
     "url": "https://omama.to/",
     "icon": "https://icons.duckduckgo.com/ip3/omama.to.ico",
     "slug": "omama",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "92.50%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "92.49%",
     "uptimeWeek": "91.88%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "99.33%",
-    "time": 517,
-    "timeDay": 346,
-    "timeWeek": 357,
+    "time": 516,
+    "timeDay": 341,
+    "timeWeek": 355,
     "timeMonth": 553,
     "timeYear": 520,
     "dailyMinutesDown": {
@@ -126,8 +126,7 @@
       "2025-11-13": 48,
       "2025-11-11": 54,
       "2025-11-04": 21,
-      "2025-10-30": 37,
-      "2025-10-21": 15
+      "2025-10-30": 37
     }
   },
   {
@@ -142,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 814,
-    "timeDay": 678,
-    "timeWeek": 768,
-    "timeMonth": 780,
+    "timeDay": 660,
+    "timeWeek": 782,
+    "timeMonth": 782,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2025-06-30": 33
@@ -162,9 +161,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.79%",
     "time": 212,
-    "timeDay": 197,
-    "timeWeek": 217,
-    "timeMonth": 211,
+    "timeDay": 215,
+    "timeWeek": 231,
+    "timeMonth": 209,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-02-02": 28,
@@ -184,9 +183,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 272,
-    "timeDay": 344,
-    "timeWeek": 213,
-    "timeMonth": 232,
+    "timeDay": 365,
+    "timeWeek": 211,
+    "timeMonth": 230,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-11-18": 181
