@@ -11,9 +11,9 @@
     "uptimeMonth": "94.40%",
     "uptimeYear": "99.50%",
     "time": 163,
-    "timeDay": 129,
-    "timeWeek": 187,
-    "timeMonth": 166,
+    "timeDay": 104,
+    "timeWeek": 183,
+    "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2026-03-05": 482,
@@ -35,9 +35,9 @@
     "uptimeMonth": "94.34%",
     "uptimeYear": "99.45%",
     "time": 549,
-    "timeDay": 251,
-    "timeWeek": 312,
-    "timeMonth": 881,
+    "timeDay": 175,
+    "timeWeek": 303,
+    "timeMonth": 879,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2026-03-05": 482,
@@ -59,16 +59,16 @@
     "url": "https://omama.to/",
     "icon": "https://icons.duckduckgo.com/ip3/omama.to.ico",
     "slug": "omama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "92.74%",
+    "uptimeDay": "92.73%",
     "uptimeWeek": "96.77%",
-    "uptimeMonth": "95.90%",
+    "uptimeMonth": "95.95%",
     "uptimeYear": "99.29%",
-    "time": 509,
-    "timeDay": 320,
-    "timeWeek": 340,
-    "timeMonth": 363,
+    "time": 508,
+    "timeDay": 329,
+    "timeWeek": 343,
+    "timeMonth": 365,
     "timeYear": 506,
     "dailyMinutesDown": {
       "2026-03-13": 105,
@@ -131,7 +131,7 @@
       "2025-12-14": 24,
       "2025-12-12": 30,
       "2025-12-08": 38,
-      "2025-12-07": 66
+      "2025-12-07": 50
     }
   },
   {
@@ -146,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 812,
-    "timeDay": 717,
-    "timeWeek": 695,
-    "timeMonth": 722,
-    "timeYear": 816,
+    "timeDay": 913,
+    "timeWeek": 727,
+    "timeMonth": 734,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-06-30": 33
     }
@@ -166,10 +166,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 213,
-    "timeDay": 114,
-    "timeWeek": 201,
-    "timeMonth": 241,
-    "timeYear": 227,
+    "timeDay": 91,
+    "timeWeek": 176,
+    "timeMonth": 234,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2026-02-02": 28,
       "2025-12-04": 920,
@@ -187,11 +187,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 323,
-    "timeDay": 135,
-    "timeWeek": 159,
-    "timeMonth": 612,
-    "timeYear": 323,
+    "time": 322,
+    "timeDay": 120,
+    "timeWeek": 162,
+    "timeMonth": 605,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2025-11-18": 181
     }
