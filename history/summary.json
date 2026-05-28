@@ -62,10 +62,10 @@
     "slug": "omama",
     "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "84.73%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "98.94%",
+    "uptimeDay": "82.66%",
+    "uptimeWeek": "94.29%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "98.93%",
     "time": 480,
     "timeDay": 285,
     "timeWeek": 374,
@@ -129,7 +129,7 @@
       "2026-05-24": 87,
       "2026-05-25": 154,
       "2026-05-27": 220,
-      "2026-05-28": 0
+      "2026-05-28": 30
     }
   },
   {
