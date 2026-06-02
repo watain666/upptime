@@ -13,7 +13,7 @@
     "time": 168,
     "timeDay": 65,
     "timeWeek": 143,
-    "timeMonth": 145,
+    "timeMonth": 143,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2025-10-01": 22,
@@ -38,8 +38,8 @@
     "time": 556,
     "timeDay": 393,
     "timeWeek": 250,
-    "timeMonth": 644,
-    "timeYear": 582,
+    "timeMonth": 650,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2025-08-06": 20,
       "2025-10-20": 114,
@@ -60,19 +60,19 @@
     "url": "https://omama.to/",
     "icon": "https://icons.duckduckgo.com/ip3/omama.to.ico",
     "slug": "omama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "96.25%",
-    "uptimeYear": "98.89%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "96.37%",
+    "uptimeYear": "98.90%",
     "time": 479,
-    "timeDay": 325,
-    "timeWeek": 377,
-    "timeMonth": 356,
+    "timeDay": 359,
+    "timeWeek": 300,
+    "timeMonth": 353,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2026-02-15": 166,
+      "2026-02-15": 114,
       "2026-02-16": 71,
       "2026-02-17": 190,
       "2026-02-18": 82,
@@ -129,7 +129,8 @@
       "2026-05-24": 87,
       "2026-05-25": 154,
       "2026-05-27": 220,
-      "2026-05-28": 256
+      "2026-05-28": 256,
+      "2026-06-02": 0
     }
   },
   {
@@ -146,8 +147,8 @@
     "time": 798,
     "timeDay": 973,
     "timeWeek": 687,
-    "timeMonth": 677,
-    "timeYear": 798,
+    "timeMonth": 678,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2025-06-30": 33
     }
