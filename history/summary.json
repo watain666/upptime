@@ -60,15 +60,15 @@
     "url": "https://omama.to/",
     "icon": "https://icons.duckduckgo.com/ip3/omama.to.ico",
     "slug": "omama",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "80.21%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "94.58%",
-    "uptimeYear": "98.72%",
+    "uptimeDay": "72.66%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "98.70%",
     "time": 478,
-    "timeDay": 422,
-    "timeWeek": 346,
+    "timeDay": 415,
+    "timeWeek": 348,
     "timeMonth": 346,
     "timeYear": 439,
     "dailyMinutesDown": {
@@ -131,7 +131,7 @@
       "2026-06-02": 492,
       "2026-06-03": 395,
       "2026-06-04": 303,
-      "2026-06-05": 0
+      "2026-06-05": 109
     }
   },
   {
