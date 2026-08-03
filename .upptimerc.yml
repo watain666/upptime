@@ -6,15 +6,15 @@ sites:
   - name: Always Indigo
     url: https://tiaui.co
   - name: One Drive
-    url: https://d.tiaui.co/
+    url: https://d.tiaui.co
   - name: O͘màmà
-    url: https://omama.to/
+    url: https://omama.to
   - name: Tâijī chhân
-    url: https://ji.taioan.org/
+    url: https://ji.taioan.org
   - name: Ginger's portfolio 
-    url: https://bginger.art/
+    url: https://bginger.art
   - name: 奇蹟 30
-    url: https://miracle30.live/
+    url: https://tiaui.co/m30
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
