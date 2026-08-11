@@ -81,12 +81,12 @@
     "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.15%",
+    "uptimeMonth": "94.59%",
     "uptimeYear": "97.22%",
     "time": 415,
     "timeDay": 308,
     "timeWeek": 312,
-    "timeMonth": 308,
+    "timeMonth": 309,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2026-05-12": 155,
@@ -150,9 +150,9 @@
     "url": "https://ji.taioan.org",
     "icon": "https://icons.duckduckgo.com/ip3/ji.taioan.org.ico",
     "slug": "taiji-chhan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,7 +161,9 @@
     "timeWeek": 699,
     "timeMonth": 722,
     "timeYear": 772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-11": 0
+    }
   },
   {
     "name": "Ginger's portfolio",
@@ -169,7 +171,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bginger.art.ico",
     "slug": "ginger-s-portfolio",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
