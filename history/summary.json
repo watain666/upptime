@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 882,
-    "timeWeek": 990,
-    "timeMonth": 874,
-    "timeYear": 863,
+    "time": 861,
+    "timeDay": 826,
+    "timeWeek": 963,
+    "timeMonth": 871,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
     "time": 168,
-    "timeDay": 91,
-    "timeWeek": 165,
+    "timeDay": 116,
+    "timeWeek": 162,
     "timeMonth": 153,
     "timeYear": 168,
     "dailyMinutesDown": {
@@ -54,10 +54,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
     "time": 561,
-    "timeDay": 141,
-    "timeWeek": 349,
-    "timeMonth": 292,
-    "timeYear": 608,
+    "timeDay": 274,
+    "timeWeek": 356,
+    "timeMonth": 296,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2025-10-20": 114,
       "2025-11-04": 18,
@@ -85,8 +85,8 @@
     "uptimeYear": "97.22%",
     "time": 411,
     "timeDay": 359,
-    "timeWeek": 403,
-    "timeMonth": 330,
+    "timeWeek": 397,
+    "timeMonth": 331,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2026-05-16": 119,
@@ -156,10 +156,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 783,
-    "timeDay": 810,
-    "timeWeek": 778,
-    "timeMonth": 727,
+    "time": 782,
+    "timeDay": 798,
+    "timeWeek": 779,
+    "timeMonth": 728,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2026-08-11": 57
@@ -177,9 +177,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 218,
-    "timeDay": 80,
-    "timeWeek": 255,
-    "timeMonth": 214,
+    "timeDay": 174,
+    "timeWeek": 256,
+    "timeMonth": 216,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2025-11-18": 164,
@@ -199,8 +199,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.03%",
     "time": 270,
-    "timeDay": 163,
-    "timeWeek": 267,
+    "timeDay": 200,
+    "timeWeek": 263,
     "timeMonth": 235,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -211,5 +211,23 @@
       "2026-08-03": 483,
       "2026-08-02": 1440
     }
+  },
+  {
+    "name": "Ptt alertor",
+    "url": "https://ptt-alertor.tiaui.co",
+    "icon": "https://icons.duckduckgo.com/ip3/ptt-alertor.tiaui.co.ico",
+    "slug": "ptt-alertor",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
+    "dailyMinutesDown": {}
   }
 ]
