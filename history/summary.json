@@ -217,20 +217,21 @@
     "url": "https://ptt-alertor.tiaui.co",
     "icon": "https://icons.duckduckgo.com/ip3/ptt-alertor.tiaui.co.ico",
     "slug": "ptt-alertor",
-    "status": "up",
-    "uptime": "91.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "91.03%",
-    "time": 605,
-    "timeDay": 566,
-    "timeWeek": 640,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "status": "down",
+    "uptime": "91.67%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "91.67%",
+    "uptimeYear": "91.67%",
+    "time": 828,
+    "timeDay": 2145,
+    "timeWeek": 1025,
+    "timeMonth": 828,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2026-09-16": 1010,
-      "2026-09-15": 317
+      "2026-09-15": 317,
+      "2026-09-24": 1
     }
   }
 ]
