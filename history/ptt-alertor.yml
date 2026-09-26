@@ -1,7 +1,7 @@
 url: https://ptt-alertor.tiaui.co
-status: down
-code: 502
-responseTime: 3496
-lastUpdated: 2026-09-26T01:16:49.364Z
+status: up
+code: 200
+responseTime: 501
+lastUpdated: 2026-09-26T17:18:29.422Z
 startTime: 2026-09-13T19:32:36.378Z
 generator: Upptime <https://github.com/upptime/upptime>
